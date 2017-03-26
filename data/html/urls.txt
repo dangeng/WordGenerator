@@ -1,0 +1,53 @@
+<button class="button all-sites-download" data-open="signup-modal-alt">Download</button>
+<a href="templates-previews-sites-f6/news-magazine.html" class="button secondary-demo-button">See Demo</a>
+</div>
+<div class="column">
+<a class="img-link" href="templates-previews-sites-f6/real-estate.html"><img class="thumbnail" src="assets/img/sites-templates/f6-template-realestate.svg"></a>
+<h5>Real Estate or Travel</h5>
+<p>Big thumbnails with a space for captions and descriptions along with an informative header make this the perfect template for real estate or hotel booking.</p>
+<button class="button all-sites-download" data-open="signup-modal-alt">Download</button>
+<a href="templates-previews-sites-f6/real-estate.html" class="button secondary-demo-button">See Demo</a>
+</div>
+<div class="column">
+<a class="img-link" href="templates-previews-sites-f6/ecommerce.html"><img class="thumbnail" src="assets/img/sites-templates/foundation6-templates-04.svg"></a>
+<h5>Ecommerce Homepage</h5>
+<p>Building an online store? You'll appreciate this template's large Orbit powered hero slider and thumbnail patterns for items and buttons.</p>
+<button class="button all-sites-download" data-open="signup-modal-alt">Download</button>
+<a href="templates-previews-sites-f6/ecommerce.html" class="button secondary-demo-button">See Demo</a>
+</div>
+<div class="column">
+<a class="img-link" href="templates-previews-sites-f6/agency.html"><img class="thumbnail" src="assets/img/sites-templates/foundation6-templates-03.svg"></a>
+<h5>Agency</h5>
+<p>Bring your work to the forefront with this sleek template that's perfect for agencies or freelancers.</p>
+<button class="button all-sites-download" data-open="signup-modal-alt">Download</button>
+<a href="templates-previews-sites-f6/agency.html" class="button secondary-demo-button">See Demo</a>
+</div>
+<div class="column">
+<a class="img-link" href="templates-previews-sites-f6/blog.html"><img class="thumbnail" src="assets/img/sites-templates/foundation6-templates-05.svg"></a>
+<h5>Blog w/ Sidebar</h5>
+<p>Large images, an easy to navigate layout, and versatile sidebar will help you get your blog up and running.</p>
+<button class="button all-sites-download" data-open="signup-modal-alt">Download</button>
+<a href="templates-previews-sites-f6/blog.html" class="button secondary-demo-button">See Demo</a>
+</div>
+<div class="column">
+<a class="img-link" href="templates-previews-sites-f6/blog-simple.html"><img class="thumbnail" src="assets/img/sites-templates/foundation6-templates-06.svg"></a>
+<h5>Blog Single Column</h5>
+<p>This sleek, minimal approach can help your blog stand out by putting content front and center.</p>
+<button class="button all-sites-download" data-open="signup-modal-alt">Download</button>
+<a href="templates-previews-sites-f6/blog-simple.html" class="button secondary-demo-button">See Demo</a>
+</div>
+ 
+<div class="column">
+<a class="img-link" href="templates-previews-sites-f6/portfolio.html"><img class="thumbnail" src="assets/img/sites-templates/foundation6-templates-07.svg"></a>
+<h5>Portfolio</h5>
+<p>Show off your work and highlight what you do with this grid style thumbnail layout.</p>
+<button class="button all-sites-download" data-open="signup-modal-alt">Download</button>
+<a href="templates-previews-sites-f6/portfolio.html" class="button secondary-demo-button">See Demo</a>
+</div>
+<div class="column">
+<a class="img-link" href="templates-previews-sites-f6/product-page.html"><img class="thumbnail" src="assets/img/sites-templates/foundation6-templates-02.svg"></a>
+<h5>Product Page</h5>
+<p>Highlight your new product and educate potential customers with this classic template.</p>
+<button class="button all-sites-download" data-open="signup-modal-alt">Download</button>
+<a href="templates-previews-sites-f6/product-page.html" class="button secondary-demo-button">See Demo</a>
+</div>
